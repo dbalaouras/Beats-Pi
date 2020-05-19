@@ -5,7 +5,7 @@ Origin: RaoulDuke-Esq
 Label: Beats-Pi
 Suite: stable
 Codename: buster
-Date: Tue, 19 May 2020 23:09:37 UTC
+Date: Tue, 19 May 2020 23:12:06 UTC
 Architectures: armhf arm64
 Components: main
 Description: Elastic Beats.  You know, for Pi.
@@ -32,15 +32,15 @@ SHA256:
  fbf96c16ee3468b74a591996721c7fbd820a60de50d7d149b0a3b354e8dcd113 137 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEU6DngWh5Cqds7gqxECKDE35jUUgFAl7EZzIACgkQECKDE35j
-UUg8Mwv+IfPbuT2XSwpiM7pdcxRI529lTCV8T3dDcu+Wl+kziWQSuEHvtIJ0+xql
-uJcWwpym/J+cveAC81GMTdWVhSW2WibQhWxOgyIvE6wrFbrCqfAsBX0NC1ku+F2H
-xDvAo1xDuASVlql8SgobPE0NW+pvDqEioNvk7PU4nQ3h8zvI/A1RR2QBm+PFSPwK
-A1dA6HIx+KkGilWSQQBiii8KDswRDUeT9gvOZJMoStFEbNafMONTVDb2ZhOkOZob
-Ddb7o6cQtUXHTQbuWSbBn1n7foEYuSMtGU04fzqzgYhaW6m1RNITGqzcGOXbiG6p
-DioYy9HX2bzDdkH2Fg7iXe+NBYGH/6JMcQxX10P8RSS09IEV5fgYZpnm90tdpr78
-pMcMueUfZvbeoMob9rhMzCVhQ+RwTj+YqIOBrl6a0wS8MRTiEbHDNwDN++6cNPgf
-ezeWLY8ULowqXKpBw/4xf2iD6+a6kLWqxvUNSwiIL/Hkk9xr9IRAQ+2EPSXNOALS
-MvWcJgRl
-=I/Qm
+iQGzBAEBCgAdFiEEU6DngWh5Cqds7gqxECKDE35jUUgFAl7EZ8YACgkQECKDE35j
+UUh1BAwAo2elDeyurr32ivCzrwTiL+jKIxfxMrzIArMRpq7CGR3SC4pkRQfKSU46
+q5PN5ca/EDmC6qk+pPKU7yGfQup/mzmK/zqzzY8qo5PgshPUfA0KD/WlLtZuytl2
+4LFDwr5kyC2+18fwPPSBnh7NhB9Bx5xpLIHRiz08yNpRJrCJd+rHppsGs2gf0UzA
+GWOI5QzWvRqiBgHYbnjmDhMdg4mur+ewmMQVxa5lPS9w0Z2HSwPNH52b0cYzsKRS
+rN7vorzsODxIyb0XYUSg7TUn76OxzBSBuRnubk1U5lVJaFGg1luQwBElttmhv7pM
+I361o7RMT+681/XnpeT6c3TPiwDa/TRHkCeLMyLmoeGmdzjJVindbs+LCuDtJ6lm
+Vd//sfL8onzwSiNZROb/JRHA6qql+5akYseVKPKNlT/dwbvCprvkembVTl2F0Q5t
++e7cWUsR1qy1HjtnaRpbeON1KF2VvElag2gebDd7Kr3TI/rHgvLelEsp7FHrjDuP
+uqU2A6WC
+=bdNN
 -----END PGP SIGNATURE-----
