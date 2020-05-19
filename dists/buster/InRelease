@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: RaoulDuke-Esq
+Label: Beats-Pi
+Suite: stable
+Codename: buster
+Date: Tue, 19 May 2020 23:09:37 UTC
+Architectures: armhf arm64
+Components: main
+Description: Elastic Beats.  You know, for Pi.
+MD5Sum:
+ 671db883a80a13c27609d713e4808107 1792 main/binary-armhf/Packages
+ 9ff09d037f1465faf2ab97612708d234 704 main/binary-armhf/Packages.gz
+ 17c23d9cf70bfa322e71e2292ea96a20 137 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ c7472b782e9e0f38209776bfb515970f 137 main/binary-arm64/Release
+SHA1:
+ a89453612ec5018f37c681402a1424440d78f467 1792 main/binary-armhf/Packages
+ 5839b327d8966bea0ab1bedb686b873394ef998e 704 main/binary-armhf/Packages.gz
+ abc9d69045dba007f3f0c498cf468734741f6bec 137 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 42d45ab4cf443f62d51c417582353ec79bd5b428 137 main/binary-arm64/Release
+SHA256:
+ e52d05893251c66fa573a9541066df23e88258d35372cefa1d58888813601709 1792 main/binary-armhf/Packages
+ f2c594fa3eebffa96f1619d832fe49051a239f5355c93b97fa35df99db435604 704 main/binary-armhf/Packages.gz
+ f27ed81d7e7c5c108b55306530add4a34e644d2286e024416611270be6c8f5fd 137 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ fbf96c16ee3468b74a591996721c7fbd820a60de50d7d149b0a3b354e8dcd113 137 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEU6DngWh5Cqds7gqxECKDE35jUUgFAl7EZzIACgkQECKDE35j
+UUg8Mwv+IfPbuT2XSwpiM7pdcxRI529lTCV8T3dDcu+Wl+kziWQSuEHvtIJ0+xql
+uJcWwpym/J+cveAC81GMTdWVhSW2WibQhWxOgyIvE6wrFbrCqfAsBX0NC1ku+F2H
+xDvAo1xDuASVlql8SgobPE0NW+pvDqEioNvk7PU4nQ3h8zvI/A1RR2QBm+PFSPwK
+A1dA6HIx+KkGilWSQQBiii8KDswRDUeT9gvOZJMoStFEbNafMONTVDb2ZhOkOZob
+Ddb7o6cQtUXHTQbuWSbBn1n7foEYuSMtGU04fzqzgYhaW6m1RNITGqzcGOXbiG6p
+DioYy9HX2bzDdkH2Fg7iXe+NBYGH/6JMcQxX10P8RSS09IEV5fgYZpnm90tdpr78
+pMcMueUfZvbeoMob9rhMzCVhQ+RwTj+YqIOBrl6a0wS8MRTiEbHDNwDN++6cNPgf
+ezeWLY8ULowqXKpBw/4xf2iD6+a6kLWqxvUNSwiIL/Hkk9xr9IRAQ+2EPSXNOALS
+MvWcJgRl
+=I/Qm
+-----END PGP SIGNATURE-----
