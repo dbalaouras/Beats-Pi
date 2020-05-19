@@ -2,7 +2,7 @@
 Elastic Beats.  You know, for Pi.
 
 ### Updates 19 May 2020
-v7.6.2 of the Auditbeat, Heartbeat, Metricbeat, and Filebeat are now posted.  Enjoy!
+v7.7.0 of the Auditbeat, Heartbeat, Metricbeat, and Filebeat are now posted.  Enjoy!
 
 ### Updates 28 March 2020
 Added support for arm64 architecture in case you're running a 64-bit OS on your Pi.
