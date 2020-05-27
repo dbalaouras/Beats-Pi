@@ -1,6 +1,9 @@
 # Beats-Pi
 Elastic Beats.  You know, for Pi.
 
+### Updates 27 May 2020
+By request, v7.6.2 .deb files are posted in an Old-DEBs folder.  In the event the repo doesn't keep the older versions available I'll post them here.  
+
 ### Updates 19 May 2020
 v7.7.0 of the Auditbeat, Heartbeat, Metricbeat, and Filebeat are now posted.  Enjoy!
 
