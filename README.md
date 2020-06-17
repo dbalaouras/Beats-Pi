@@ -19,7 +19,7 @@ Elastic Beats are lightweight data shippers that collect and send information ba
 
 You can build the beats from source if you want, and I go over how to do that in my easyBEATS fork.  However, here I make it easy.  I've packaged the Beats and put them in an apt repo that you can use on your Raspberry Pi.
 
-Let's be perfectly clear: Beats are created by Elastic NV, not me.  All I'm doing here is compiling from source and hanging in a repo.  I didn't develop the Beats and deserve no credit for the whizbangitry they provide.
+Let's be perfectly clear: Beats are created by Elastic NV, not me.  All I'm doing here is compiling from source and hanging in a repo.  I didn't develop the Beats and deserve no credit for the whizbangitry they provide.  Most of what you see here is covered under the Apache 2.0 License, but some of the Beats modules are covered under the Elastic License.  For more details and to see which ones, visit https://github.com/elastic/beats/tree/master/x-pack
 
 ## Connect to the repo
 
