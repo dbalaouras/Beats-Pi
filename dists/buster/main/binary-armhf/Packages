@@ -6,9 +6,9 @@ Priority: optional
 Section: utils
 Filename: pool/main/a/auditbeat/auditbeat_7.7.1_armhf.deb
 Size: 10552632
-SHA256: d6dd5da5a24ed945c3f2c092efe0703d5fff355954fc9c2e6052f54207b1b4d7
-SHA1: bf41dfa2a07b5095b01600e74d3e9295cccef262
-MD5sum: 3b57ad6b51593f7ed8add50067b2152d
+SHA256: 133e64c13eeb5a2a26126adc9f4acd06a691687b2cfab3181291d39180f836c4
+SHA1: 38c62386338f3a61aa5980f323278cb404c6992a
+MD5sum: f7fb79658d60494a8e009c6dbb7460dd
 Description: auditbeat is a lightweight shipper.
   https://www.elastic.co/guide/en/beats/auditbeat
 
@@ -20,9 +20,9 @@ Priority: optional
 Section: utils
 Filename: pool/main/f/filebeat/filebeat_7.7.1_armhf.deb
 Size: 16318872
-SHA256: 6608980262ba5b56781c2950c8c5b55101c8c558a92fceeda1eabaf2b7c299ab
-SHA1: 3096bd94a010bab7bfeca43a660479560ee052cf
-MD5sum: e0e69b2ddcac77c78a530a03a8f7f48d
+SHA256: 81bf21d4350d8486f66f60f2269eeae141631c912eabd4065dfa96e67515b518
+SHA1: 842b4b0d9aefc139c03314791a181c337d53454f
+MD5sum: 9edfa423dc6a6c1a9cf1fedf53b71c2b
 Description: filebeat is a lightweight shipper.
   https://www.elastic.co/guide/en/beats/filebeat
 
@@ -34,9 +34,9 @@ Priority: optional
 Section: utils
 Filename: pool/main/h/heartbeat/heartbeat_7.7.1_armhf.deb
 Size: 8587284
-SHA256: d86043cb3d6b8eb2c914090740bdc7a72918e92c20857826d10f86fbbebfd11d
-SHA1: 69845ef0ef2f0a1c158c7dffc214ee299f5c9898
-MD5sum: 72e6d4d88ccc12823ecb259039a154d4
+SHA256: e46790ebca0804d4e14693fba9916c5ad1aa704c265f2d165f0ced461578b8d7
+SHA1: 09d3b62dffd6fce54afef911b50d08173b47a8d2
+MD5sum: 3a7c9bf1224c3c5ae2b73a1961349e7c
 Description: heartbeat is a lightweight shipper.
   https://www.elastic.co/guide/en/beats/heartbeat
 
@@ -48,9 +48,9 @@ Priority: optional
 Section: utils
 Filename: pool/main/m/metricbeat/metricbeat_7.7.1_armhf.deb
 Size: 13131680
-SHA256: 53ea3532cdd98966e2e040f0cb07ced47d9546ffae2dcdb84d05af0185f55822
-SHA1: 46e06f61e19bd43700508bff4769665bb24c3db9
-MD5sum: ca0ad5901af181647d2cfeb65164b894
+SHA256: df587ced6ef712741344c4fd79c2c77f8b3f55ae146808e33d99a30819ded4a8
+SHA1: 5633004a14df5091fc9df8712e0a8882c4743cd5
+MD5sum: 172f86aa542d1ec9af20d44fd72f2522
 Description: metricbeat is a lightweight shipper.
   https://www.elastic.co/guide/en/beats/metricbeat
 
