@@ -2,27 +2,27 @@ Origin: RaoulDuke-Esq
 Label: Beats-Pi
 Suite: stable
 Codename: buster
-Date: Thu, 18 Jun 2020 17:08:06 UTC
+Date: Thu, 18 Jun 2020 17:24:36 UTC
 Architectures: armhf arm64
 Components: main
 Description: Elastic Beats.  You know, for Pi.
 MD5Sum:
- 8263830bacb958579fddd01386e6b068 1791 main/binary-armhf/Packages
- bace509938c6c09367d1e88c305527ba 702 main/binary-armhf/Packages.gz
+ ccbd3204bd8b5280a368c2bcad5e8616 1791 main/binary-armhf/Packages
+ 6e2ccb7f792e94bd9f521a516634682d 704 main/binary-armhf/Packages.gz
  17c23d9cf70bfa322e71e2292ea96a20 137 main/binary-armhf/Release
  a82404a6cf96cfab12931e50e999fd02 1792 main/binary-arm64/Packages
  cc0f9b10c8245e1c2190f6f22a4f38c6 703 main/binary-arm64/Packages.gz
  c7472b782e9e0f38209776bfb515970f 137 main/binary-arm64/Release
 SHA1:
- 9dc58e48a91f63ede6ab688c9c4c362dd31e11af 1791 main/binary-armhf/Packages
- 728d77bc2eb3888d06e8b6d7966e1841c37a1a49 702 main/binary-armhf/Packages.gz
+ 64e83ddaf7bfd495046c2b7f41eea931a842e24c 1791 main/binary-armhf/Packages
+ 27ecc90b6581343563cc8859a0b388c493b80f65 704 main/binary-armhf/Packages.gz
  abc9d69045dba007f3f0c498cf468734741f6bec 137 main/binary-armhf/Release
  e7106e67d01163ad151960bc83387178217a5ba3 1792 main/binary-arm64/Packages
  2aa69d22a0a1a09f89ca910e279c976c2f44d4b1 703 main/binary-arm64/Packages.gz
  42d45ab4cf443f62d51c417582353ec79bd5b428 137 main/binary-arm64/Release
 SHA256:
- 9a9c0b4fccf448265d88f30a78ed392daabde9b6a9f7d6c19704b37f8e2577d1 1791 main/binary-armhf/Packages
- 1343a9c069ad9d7d1fdf2e5714c95e39d32f42b28b690d102358365d92e29bdf 702 main/binary-armhf/Packages.gz
+ b4ba12c50f74fa7b23f64cc36b25ec1fa60a4965b42d9322670f0b59a061539d 1791 main/binary-armhf/Packages
+ 76b87d092473570f4ab93e5a3bcf33055f963ae26e4ab2f53244c0f6963a70c4 704 main/binary-armhf/Packages.gz
  f27ed81d7e7c5c108b55306530add4a34e644d2286e024416611270be6c8f5fd 137 main/binary-armhf/Release
  bbd2cbade1506e21944936ecd957d896564a1e6d208f62267bc8a037855c0a22 1792 main/binary-arm64/Packages
  2af580bb22bbea7672e85097c6340d444d26ea7a371c3c3077f1f34629196746 703 main/binary-arm64/Packages.gz
