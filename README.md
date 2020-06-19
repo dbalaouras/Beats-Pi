@@ -1,6 +1,8 @@
 # Beats-Pi
 Elastic Beats.  You know, for Pi.
 
+### TEMPORARY SHUTDOWN due to errors...  Beats will be back soon.
+
 ### Updates 18 Jun 2020
 v7.7.1 and v7.8.0 are now available.  Added x-pack support to Filebeat, so please notice that several Filebeat components now fall under the Elastic License instead of the Apache License.  Couldn't get x-pack support to work on Metricbeat, so that's still the OSS version.
 
