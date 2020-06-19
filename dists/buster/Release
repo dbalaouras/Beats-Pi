@@ -2,7 +2,7 @@ Origin: RaoulDuke-Esq
 Label: Beats-Pi
 Suite: stable
 Codename: buster
-Date: Fri, 19 Jun 2020 21:24:56 UTC
+Date: Fri, 19 Jun 2020 21:25:32 UTC
 Architectures: armhf arm64
 Components: main
 Description: Elastic Beats.  You know, for Pi.
@@ -10,20 +10,20 @@ MD5Sum:
  e7e07fc2d77e9a9f1b243c86273f5272 1791 main/binary-armhf/Packages
  d8169ae20ba52967ae7778e131129fb8 697 main/binary-armhf/Packages.gz
  17c23d9cf70bfa322e71e2292ea96a20 137 main/binary-armhf/Release
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ f06846228af340689b747d595d8bdf58 1791 main/binary-arm64/Packages
+ 9b362407c31a5d27fe6f116d23ec8a04 702 main/binary-arm64/Packages.gz
  c7472b782e9e0f38209776bfb515970f 137 main/binary-arm64/Release
 SHA1:
  cc33f44608c8fda85d25bea392849740f1fc1a34 1791 main/binary-armhf/Packages
  5dc126e881d367ef783e9c9ff894b18b61e838b8 697 main/binary-armhf/Packages.gz
  abc9d69045dba007f3f0c498cf468734741f6bec 137 main/binary-armhf/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ a3e2d7cc179ca643e9756b7dbf983742a141bce0 1791 main/binary-arm64/Packages
+ 5c0db0353d811d9d3be4e329c3c8da1e64037af1 702 main/binary-arm64/Packages.gz
  42d45ab4cf443f62d51c417582353ec79bd5b428 137 main/binary-arm64/Release
 SHA256:
  d3bfc52fd13d1fe6b86e0dde1178c8d233d3754955afad4d5158d78e9b0e12af 1791 main/binary-armhf/Packages
  5904d19f90ef0d6e1124e4e3b22328b916b608792f35d8adfe6dc31b86626955 697 main/binary-armhf/Packages.gz
  f27ed81d7e7c5c108b55306530add4a34e644d2286e024416611270be6c8f5fd 137 main/binary-armhf/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 9461b1f3af784a11d5edd3848e738d5417f9fa57a9a6af4fccf960ba43e45a2f 1791 main/binary-arm64/Packages
+ 693a2d9e351d04a14d5aba93ce39f5360f5d334e068dc4449909f08569691700 702 main/binary-arm64/Packages.gz
  fbf96c16ee3468b74a591996721c7fbd820a60de50d7d149b0a3b354e8dcd113 137 main/binary-arm64/Release
