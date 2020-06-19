@@ -5,7 +5,7 @@ Origin: RaoulDuke-Esq
 Label: Beats-Pi
 Suite: stable
 Codename: buster
-Date: Fri, 19 Jun 2020 17:11:18 UTC
+Date: Fri, 19 Jun 2020 17:11:54 UTC
 Architectures: armhf arm64
 Components: main
 Description: Elastic Beats.  You know, for Pi.
@@ -13,34 +13,34 @@ MD5Sum:
  35536b9b08a58b237ee5961ce6b40645 1791 main/binary-armhf/Packages
  c079e1cb76d5117fdd43048570e18800 699 main/binary-armhf/Packages.gz
  17c23d9cf70bfa322e71e2292ea96a20 137 main/binary-armhf/Release
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ a9768dabedc6d3294fe1307bb1cc6fd1 1792 main/binary-arm64/Packages
+ 6dc59efb7ec6aa84b1cf2d283bbd44f1 706 main/binary-arm64/Packages.gz
  c7472b782e9e0f38209776bfb515970f 137 main/binary-arm64/Release
 SHA1:
  d041b1236bc32fde90daf141d355b521803a41af 1791 main/binary-armhf/Packages
  0e17e978857b6b713ec8d5638bee825fe721178e 699 main/binary-armhf/Packages.gz
  abc9d69045dba007f3f0c498cf468734741f6bec 137 main/binary-armhf/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 968252065722a3a4a7db432321020fdd715acc37 1792 main/binary-arm64/Packages
+ da148f2437892b4efaf681798ac9e803ebe41469 706 main/binary-arm64/Packages.gz
  42d45ab4cf443f62d51c417582353ec79bd5b428 137 main/binary-arm64/Release
 SHA256:
  0b67b3e86f4b5adf0fadfbb5f3ff05f1f5058e43dc6973c69983741f383f5383 1791 main/binary-armhf/Packages
  6e23891f2278898cad40820daea6883d2df5243c304396519838f4c1752ab389 699 main/binary-armhf/Packages.gz
  f27ed81d7e7c5c108b55306530add4a34e644d2286e024416611270be6c8f5fd 137 main/binary-armhf/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 660e0561d61a151157586c6b88475621547b73a64287ccbda956a987771ae1cf 1792 main/binary-arm64/Packages
+ fe85584c3867d287fc2d4c9fb773969dc83f6756ecd89e23bc68657a72be78ca 706 main/binary-arm64/Packages.gz
  fbf96c16ee3468b74a591996721c7fbd820a60de50d7d149b0a3b354e8dcd113 137 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEU6DngWh5Cqds7gqxECKDE35jUUgFAl7s8bYACgkQECKDE35j
-UUh0NAwAptAt6AfPxdG/cc/0erB2c1cGxWZejXKPl7cpM0uFRZrWHVOL3UaT+rRD
-OFpkmFkCUHPAe9qSSG7wI+UewrBSELGaVnYHrv+6577VFd4MreO9r3eF0dQk6bZ1
-34uiCFnSQiXo3t4fZpUxvSENTfNeMtM512K1h94iYbdQRziRVcaHTCni5+MxZ1io
-72/pvePTn4/EX55/D+tcQkrmNqiw0Nmuaei7iygTanOF5lyyfvZ+2I+fAuXYXIgg
-fHjJWUJfsoK5ALPnEH9ZqkHiLHeuDaGYF6Tw8qG3vUFOQmwiFP9RcBcmzAySDlcB
-tPwJ13Qn8TMsCHVJkqBSMrXf6IQjrQ4PA6J+8FTx78j+POznvHL3z9vcAyW2voQL
-ZN2bDakURGyaWbX88/IzU5v1WPfi/M2R1KtIkJJ2JlaIzeB9VqLJmz3wuI4AJuMO
-Vx9iSnwLJkKGV+9Xq1V6X64qordBkQLFHoKUiljKgfvfsAkkDM/4phB8yZVX78DG
-KVy8PXOO
-=lXPp
+iQGzBAEBCgAdFiEEU6DngWh5Cqds7gqxECKDE35jUUgFAl7s8dsACgkQECKDE35j
+UUj8fgv7B0Oh8FM7jfnq4sMKnhkKSa+9HsQGECp/oCsehrA5x+Ntn8mhGvUQKFBJ
+5o31mOgoLz6W7F53YC9Wnhmw5cdc2YgZQeD0VAw7Myk68cJfz/o69cgcAOcQIBtf
+kVaKEuYvlPXqNB+u5pHMY4+oRF5IICnhqhFzxtDzygBDojsDrbEJRmkggfwqrPal
+vWA/DFVmC1AOEhefh79E0UWVT9Jcd+5IdV+YtjLWARnAoAhbaUBOucejDa/PtoIY
+zzIAJ6lyIvBf+cly7fjM+aQF1x76QOEQt+TyAEY05uqX3j/QTBrdby4Qxl4Cns28
+UyqoHzgEFqHMCC600z//nPE6qsUeyRWUZxCyteoS2sR9NuWtcX4hFcYSgJ6hwQmI
+qN91WA/S6xmcp7mjVR1u/GboSiUOxAf6Q9GF10vwXf+4T7pd+iPiiZCroLV3ZnC9
+kckub9l9WZzFRR3fOEd7e72EEevZkSLfBM4HAlinf16cK6fPYdXj0odEZh+DTb9g
+vHEg8mrR
+=fw9f
 -----END PGP SIGNATURE-----
