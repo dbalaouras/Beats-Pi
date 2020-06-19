@@ -1,0 +1,56 @@
+Package: auditbeat
+Architecture: armhf
+Maintainer: RaoulDuke-Esq
+Version: 7.7.0
+Priority: optional
+Section: utils
+Filename: pool/main/a/auditbeat/auditbeat_7.7.0_armhf.deb
+Size: 10558536
+SHA256: f0c61489dcb5a46ca2191596efe1b378c85c08b25c76e60dae8f6179bda51b61
+SHA1: c7dbdd4506cfa253ab875dd47a5cb0faca2456df
+MD5sum: 88d015c24e347b9f618723d7943af4ad
+Description: auditbeat is a lightweight shipper.
+  https://www.elastic.co/guide/en/beats/auditbeat
+
+Package: filebeat
+Architecture: armhf
+Maintainer: RaoulDuke-Esq
+Version: 7.7.0
+Priority: optional
+Section: utils
+Filename: pool/main/f/filebeat/filebeat_7.7.0_armhf.deb
+Size: 16313536
+SHA256: 1f7e16ff8ff2cd6243cbe1eec6f4010231ab227257af2a34dd115fe2a665494b
+SHA1: 41f1c9ca6539f398dc35bd8264a1cfce474db2ba
+MD5sum: 01101aee0b09a2274d0e228fb4c40ada
+Description: filebeat is a lightweight shipper.
+  https://www.elastic.co/guide/en/beats/filebeat
+
+Package: heartbeat
+Architecture: armhf
+Maintainer: RaoulDuke-Esq
+Version: 7.7.0
+Priority: optional
+Section: utils
+Filename: pool/main/h/heartbeat/heartbeat_7.7.0_armhf.deb
+Size: 8633692
+SHA256: 70e00eafeb365461cee3a0020a1e09c6d528d7186c6f33c0934ddc4cd872f5da
+SHA1: 44519408db2cee0b0bd37348be06e09a2a67c27a
+MD5sum: feeccf1558cbcabaf0eda46f8a4fe417
+Description: heartbeat is a lightweight shipper.
+  https://www.elastic.co/guide/en/beats/heartbeat
+
+Package: metricbeat
+Architecture: armhf
+Maintainer: RaoulDuke-Esq
+Version: 7.7.0
+Priority: optional
+Section: utils
+Filename: pool/main/m/metricbeat/metricbeat_7.7.0_armhf.deb
+Size: 13400648
+SHA256: 7dac8a534a9c620df368dd58523494dfa44c6a18d4bcef7736ee4640a0746dc4
+SHA1: 9b783582e757adf8ceb1c790084c699c0d2cb43e
+MD5sum: 1b995c3d87dfd127b344afd6d2da5046
+Description: metricbeat is a lightweight shipper.
+  https://www.elastic.co/guide/en/beats/metricbeat
+
