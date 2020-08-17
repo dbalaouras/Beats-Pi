@@ -18,7 +18,7 @@ v7.6.1 of all the Beats are now live!  I changed the GPG key, so you'll need to 
 ENJOY!
 
 ## About this repo
-Elastic Beats are lightweight data shippers that collect and send information back to Logstash, your Elasticsearch cluster, or another output of your choosing.  However, Elastic doesn't package them for Raspberry Pi, so even if you connect to Elastic's apt repo, you won't be able to install Beats.
+Elastic Beats are lightweight data shippers that collect and send information back to Logstash, your Elasticsearch cluster, or another output of your choosing.  However, Elastic doesn't package them for Raspberry Pi, so even if you connect to Elastic's apt repo, you won't be able to install Beats.  These Beats are for armhf or arm64 only.
 
 You can build the beats from source if you want, and I go over how to do that in my easyBEATS fork.  However, here I make it easy.  I've packaged the Beats and put them in an apt repo that you can use on your Raspberry Pi.
 
